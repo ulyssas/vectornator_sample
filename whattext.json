@@ -1,0 +1,45 @@
+Build
+# BYTES: b'<\x00\x11\x01\xc9\x03\x00\x02\x02\x04\x03\x81\x01\x00\x01\x044\x00\x01\x05\x01\x00\x01\x04'
+BYTES: b'\x3c\x00\x11\x01\xc9\x03\x00\x02\x02\x04\x03\x81\x01\x00\x01\x04\x34\x00\x01\x05\x01\x00\x01\x04' 24こ
+
+3c 00, 11 01, c9 03, 00 02, 02 04, 03 81, 01 00, 01 04, 34 00, 01 05, 01 00, 01 04,
+60          201,
+
+[
+    {'length': 60, 'attribute_id': 0},
+    {'length': 17, 'attribute_id': 1},
+    {'length': 201, 'attribute_id': 3},
+    {'length': 0, 'attribute_id': 2},
+    {'length': 2, 'attribute_id': 4},
+    {'length': 3, 'attribute_id': 129},
+    {'length': 1, 'attribute_id': 0},
+    {'length': 1, 'attribute_id': 4},
+    {'length': 52, 'attribute_id': 0},
+    {'length': 1, 'attribute_id': 5},
+    {'length': 1, 'attribute_id': 0},
+    {'length': 1, 'attribute_id': 4}
+]
+
+6こ(0~5), 724文字
+
+
+Design
+# BYTES: b'\xe6\x04\x00\x07\x01G\x00\x02\x02\x9e\x01\x00'
+BYTES: b'\xe6\x04\x00\x07\x01\x47\x00\x02\x02\x9e\x01\x00'
+
+e6 04, 00 07, 01 47, 00 02, 02 9e, 01 00,
+230,                            158
+230, 0, 1, 0, 2, 1???????????
+
+[
+    {'length': 230, 'attribute_id': 4},
+    {'length': 0, 'attribute_id': 7},
+    {'length': 1, 'attribute_id': 71},
+    {'length': 0, 'attribute_id': 2},
+    {'length': 2, 'attribute_id': 158},
+    {'length': 1, 'attribute_id': 0}
+]
+
+3つだけ(0~2), 851文字
+
+

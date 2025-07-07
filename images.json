@@ -1,0 +1,155 @@
+{
+    "format": 44,
+    "imageDatas": [
+        {
+            "relativePath": "e85472ef4aa94df65ea7a3680c5d6ae550f54c7a.dat"
+        },
+        {
+            "relativePath": "91182d7419e765cb7e9dcf433b2fe956937c1e41.dat"
+        },
+        {
+            "relativePath": "a1a02b61cc39d8e68776f92c9d37475fb334fd80.dat"
+        }
+    ],
+    "images": [
+        {
+            "imageData": {
+                "sharedFileImage": {
+                    "_0": 0
+                }
+            }
+        },
+        {
+            "imageData": {
+                "sharedFileImage": {
+                    "_0": 1
+                }
+            }
+        },
+        {
+            "cropRect": [
+                [
+                    192,
+                    0
+                ],
+                [
+                    1039,
+                    1078
+                ]
+            ],
+            "imageData": {
+                "sharedFileImage": {
+                    "_0": 2
+                }
+            }
+        }
+    ]
+}
+
+{
+    "format": 40,
+    "abstractImages": [
+        {
+            "subElement": {
+                "image": {
+                    "_0": 0
+                }
+            },
+            "transform": [
+                0.5431754874651811,
+                0,
+                0,
+                0.5431754874651811,
+                15.82138638570769,
+                81.36712998364125
+            ]
+        },
+        {
+            "subElement": {
+                "image": {
+                    "_0": 1
+                }
+            },
+            "transform": [
+                0.5431754874651811,
+                -2.02651198932396e-17,
+                -2.2346848739039843e-17,
+                0.5431754874651811,
+                227.71328723871568,
+                678.2180913096889
+            ]
+        },
+        {
+            "cropRect": [
+                [
+                    192,
+                    0
+                ],
+                [
+                    1039,
+                    1078
+                ]
+            ],
+            "subElement": {
+                "image": {
+                    "_0": 2
+                }
+            },
+            "transform": [
+                0.5431725417439702,
+                4.3738180821711194e-18,
+                -8.423047260510402e-18,
+                0.5431725417439703,
+                590.7289384311325,
+                77.813206344695
+            ]
+        }
+    ],
+    "imageDatas": [
+        {
+            "relativePath": "e85472ef4aa94df65ea7a3680c5d6ae550f54c7a.dat"
+        },
+        {
+            "relativePath": "91182d7419e765cb7e9dcf433b2fe956937c1e41.dat"
+        },
+        {
+            "relativePath": "a1a02b61cc39d8e68776f92c9d37475fb334fd80.dat"
+        }
+    ]
+}
+
+{
+    "format": 21,
+    "imageDatas": [
+        {
+            "relativePath": "3b1eb04d8ba575a5a6750b26ebf58a8a1338ad91.dat"
+        },
+        {
+            "relativePath": "6c5cb733713ace3a1648e56e0550c13d3f36cc8d.dat"
+        }
+    ],
+    "images": [
+        {
+            "imageDataId": 0,
+            "transform": [
+                0.5,
+                0,
+                0,
+                0.5,
+                -1.1368683772161603e-13,
+                0
+            ]
+        },
+        {
+            "transform": [
+                -0.3780496328917133,
+                -4.466600532200803,
+                4.466600532200804,
+                -0.3780496328917122,
+                -235.14675882683093,
+                1243.8024077980385
+            ],
+            "imageDataId": 1
+        }
+    ]
+}

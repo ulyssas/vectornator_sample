@@ -1,0 +1,261 @@
+{
+    "styledTexts": [
+        {
+            "alignment": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": 2
+                    }
+                ]
+            },
+            "fillColor": {
+                "values": [
+                    {
+                        "upperBound": 17,
+                        "value": {
+                            "hsba": {
+                                "alpha": 1,
+                                "brightness": 0.5725490196078431,
+                                "hue": 0.5266203703703703,
+                                "saturation": 0.9863013698630138
+                            }
+                        }
+                    },
+                    {
+                        "upperBound": 18,
+                        "value": {
+                            "hsba": {
+                                "alpha": 1,
+                                "brightness": 0.43529411764705883,
+                                "hue": 0.470679012345679,
+                                "saturation": 0.9729729729729729
+                            }
+                        }
+                    },
+                    {
+                        "upperBound": 26,
+                        "value": {
+                            "hsba": {
+                                "alpha": 1,
+                                "brightness": 1,
+                                "hue": 0,
+                                "saturation": 0
+                            }
+                        }
+                    },
+                    {
+                        "upperBound": 27,
+                        "value": {
+                            "hsba": {
+                                "alpha": 1,
+                                "brightness": 0.43529411764705883,
+                                "hue": 0.470679012345679,
+                                "saturation": 0.9729729729729729
+                            }
+                        }
+                    },
+                    {
+                        "upperBound": 32,
+                        "value": {
+                            "hsba": {
+                                "alpha": 1,
+                                "brightness": 0.5725490196078431,
+                                "hue": 0.5266203703703703,
+                                "saturation": 0.9863013698630138
+                            }
+                        }
+                    }
+                ]
+            },
+            "fontName": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": "Helvetica-BoldOblique"
+                    }
+                ]
+            },
+            "fontSize": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": 106.29886627197266
+                    }
+                ]
+            },
+            "kerning": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": 0
+                    }
+                ]
+            },
+            "lineHeight": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": {
+                            "multiple": {
+                                "_0": 1.2
+                            }
+                        }
+                    }
+                ]
+            },
+            "strikethrough": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": false
+                    }
+                ]
+            },
+            "string": "Get your\nPERSONAL\nDISCOUNT\ntoday",
+            "underline": {
+                "values": [
+                    {
+                        "upperBound": 32,
+                        "value": false
+                    }
+                ]
+            }
+        }
+    ],
+    "textPaths": [],
+    "textStrokeStyles": [],
+    "texts": [
+        {
+            "textFrameLimits": {
+                "fixedSize": {
+                    "height": 288.0000000000045,
+                    "width": 401.0060700927997
+                }
+            },
+            "textFramePivot": [
+                0,
+                0
+            ]
+        }
+    ]
+}
+
+## Decoded!
+[
+    {
+        "string": "Get your\nPERSONAL",
+        "fillColor": {
+            "hsba": {
+                "alpha": 1,
+                "brightness": 0.5725490196078431,
+                "hue": 0.5266203703703703,
+                "saturation": 0.9863013698630138
+            }
+        },
+        "length": 17,
+        "alignment": 2,
+        "fontName": "Helvetica-BoldOblique",
+        "fontSize": 106.29886627197266,
+        "kerning": 0,
+        "lineHeight": {
+            "multiple": {
+                "_0": 1.2
+            }
+        },
+        "strikethrough": False,
+        "underline": False
+    },
+    {
+        "string": "\n",
+        "fillColor": {
+            "hsba": {
+                "alpha": 1,
+                "brightness": 0.43529411764705883,
+                "hue": 0.470679012345679,
+                "saturation": 0.9729729729729729
+            }
+        },
+        "length": 1,
+        "alignment": 2,
+        "fontName": "Helvetica-BoldOblique",
+        "fontSize": 106.29886627197266,
+        "kerning": 0,
+        "lineHeight": {
+            "multiple": {
+                "_0": 1.2
+            }
+        },
+        "strikethrough": False,
+        "underline": False
+    },
+    {
+        "string": "DISCOUNT",
+        "fillColor": {
+            "hsba": {
+                "alpha": 1,
+                "brightness": 1,
+                "hue": 0,
+                "saturation": 0
+            }
+        },
+        "length": 8,
+        "alignment": 2,
+        "fontName": "Helvetica-BoldOblique",
+        "fontSize": 106.29886627197266,
+        "kerning": 0,
+        "lineHeight": {
+            "multiple": {
+                "_0": 1.2
+            }
+        },
+        "strikethrough": False,
+        "underline": False
+    },
+    {
+        "string": "\n",
+        "fillColor": {
+            "hsba": {
+                "alpha": 1,
+                "brightness": 0.43529411764705883,
+                "hue": 0.470679012345679,
+                "saturation": 0.9729729729729729
+            }
+        },
+        "length": 1,
+        "alignment": 2,
+        "fontName": "Helvetica-BoldOblique",
+        "fontSize": 106.29886627197266,
+        "kerning": 0,
+        "lineHeight": {
+            "multiple": {
+                "_0": 1.2
+            }
+        },
+        "strikethrough": False,
+        "underline": False
+    },
+    {
+        "string": "today",
+        "alignment": 2,
+        "length": 5,
+        "fillColor": {
+            "hsba": {
+                "alpha": 1,
+                "brightness": 0.5725490196078431,
+                "hue": 0.5266203703703703,
+                "saturation": 0.9863013698630138
+            }
+        },
+        "fontName": "Helvetica-BoldOblique",
+        "fontSize": 106.29886627197266,
+        "kerning": 0,
+        "lineHeight": {
+            "multiple": {
+                "_0": 1.2
+            }
+        },
+        "strikethrough": False,
+        "underline": False
+    }
+]
