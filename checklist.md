@@ -1,10 +1,12 @@
 ## Formats
+
 - [x] format 44 (Curve Baseline)
 - [x] format 14 (Vectornator Baseline)
-- [ ] format 40 (Monterey support, v5.7.1)
+- [x] format 40 (Monterey support, v5.7.1)
 - [ ] other format
 
 ## Basics
+
 - [x] unit tests for format 14 and 44
 - [x] pixel, pica, point, inch, millimeter
 - [x] multiple artboards
@@ -17,6 +19,7 @@
 - [x] image cropping
 
 ## Paths
+
 - [x] node types (corner, smooth, symmetric, auto-smooth)
 - [x] compound path support
 - [x] proper clipping mask
@@ -27,12 +30,14 @@
 - [x] PowerStroke
 
 ## Texts
+
 - [x] longer Vectornator text support, uses VarInt (ULEB128)
 - [x] text stroke, decoration
 - [ ] text position/alignment
 - [ ] textOnPath
 
 ## Architecture
+
 - [ ] Full documentation
 - [x] Python Class&Object
 - [x] inkex SVG abstraction
