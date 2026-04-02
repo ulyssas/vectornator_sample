@@ -47,4 +47,5 @@ no artboardSettings (settingsId), but exportSettings (exportSettingsId) & gridSe
 6.0.0,48,Redesign,,
 6.1.0-6.3.0,51,abstractPath is gone,,
 6.5.0-6.7.2,52,cornerRadius in image?? no longer allows local files,,
+6.9.0,54,"backgroundEffectStyles, textNameModeRawValue. Glass Effect and SuperRes",,
 ,,,,
